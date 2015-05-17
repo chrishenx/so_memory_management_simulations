@@ -1,3 +1,9 @@
+/**
+  This file implements the non-inline functios of memory_unit.h
+  
+  @author Christian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
 #include "memory_unit.h"
 #include <cstdio>
 

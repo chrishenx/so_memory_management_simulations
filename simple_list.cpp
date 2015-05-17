@@ -1,3 +1,10 @@
+/**
+  This file implements a simple linked list.
+  
+  @author Chritian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
+
 // SIMPLE LIST IMPLEMENTATION
 
 #include <ostream>

@@ -1,3 +1,10 @@
+/**
+  This file implements some functions that simulate algorithms 
+  used in the SO's memory manager.
+
+  @author Christian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
 #include "memory_management.h"
 
 #include "task.h"

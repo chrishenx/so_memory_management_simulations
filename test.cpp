@@ -1,3 +1,13 @@
+/**
+  Ok, this file is a mess.
+
+  The functions: Practica1, Practica2, Practica3 and Practica4
+  Where written because I didn't want to create separate files to
+  present my homework.
+
+  @author Chritian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
 #include <iostream>
 #include <chrono>
 #include <random>
@@ -41,6 +51,8 @@ int main() {
   cout << "\n  Materia: Sistemas operativos" << endl;
   cout << "  Programa creado por Christian Gonzalez Leon\n" << endl;
  
+  /* Comment-uncomment The following calls to Practica(n) to prove their behavior */
+
   // Practica1(); 
   
   // Practica2();

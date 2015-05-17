@@ -1,3 +1,8 @@
+/**
+  This file defines a simple linked list.
+  @author Chritian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
 #ifndef SIMPLE_LIST_H
 #define SIMPLE_LIST_H
 

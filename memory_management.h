@@ -1,3 +1,11 @@
+/**
+  This file declares some functions that simulate algorithms 
+  used in the SO's memory manager.
+
+  @author Christian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
+
 #ifndef MEMORY_MANAGEMENT_H
 #define MEMORY_MANAGEMENT_H
 
@@ -7,7 +15,7 @@
 
 struct Task;
 
-static const uint SO_PAGES = 3;
+static const uint SO_PAGES = 3; // Memory units used by the SO
 static const uint SO = MemoryUnit::SIZE * SO_PAGES;
 
 using uint = unsigned int;

@@ -1,3 +1,10 @@
+/**
+  This file declares a struct which represents a 
+  page of a certain task.
+  
+  @author Christian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
 #ifndef PAGE_H
 #define PAGE_H
 

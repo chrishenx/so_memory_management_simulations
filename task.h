@@ -1,3 +1,9 @@
+/**
+  This file declares a struct which represents a task to execute.
+  
+  @author Christian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
 #ifndef TASK_H
 #define TASK_H
 
@@ -12,10 +18,10 @@ struct Task {
   static const uint LINES_PER_PAGE;
 
   const uint number;
-  const uint address_repr;
-  const uint loc;
+  const uint address_repr; 
+  const uint loc; // Lines of code
   std::vector<Page> pages;
-  std::vector<Page*> sequence;
+  std::vector<Page*> sequence; // Sequence of calls to the pages
 
   Task(uint address, uint loc) 
     : number(last_number++), address_repr(address), loc(loc) {}

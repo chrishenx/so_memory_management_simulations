@@ -1,3 +1,9 @@
+/**
+  This file implements the non-inline functios of task.h
+  
+  @author Christian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
 #include "task.h"
 
 #include <cstdio>

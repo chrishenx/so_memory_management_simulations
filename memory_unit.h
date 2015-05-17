@@ -1,3 +1,9 @@
+/**
+  This file declares a struct which represents a MemoryUnit in a RAM. 
+  
+  @author Christian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
 #ifndef MARCO_H
 #define MARCO_H
 

@@ -1,3 +1,9 @@
+/**
+  This file implements the non-inline functions in page.h 
+  
+  @author Christian Gonzalez Leon : Aliases (chrishenx, CPlayMasH on youtube)
+ */
+
 #include "page.h"
 
 #include <cstdio>

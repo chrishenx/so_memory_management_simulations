@@ -1,3 +1,7 @@
+
+# Use this script to compile the test.cpp source code
+# You can specify a command-line parameter for the output binary file name
+
 import os
 import sys
 
